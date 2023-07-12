@@ -5,7 +5,7 @@
 	$message = $_POST['message'];
 
 	// Database connection
-	$conn = new mysqli('cloudshrub-india.cqrotel9mtth.ap-south-1.rds.amazonaws.com','W5tgoP8DKv','Snp2eeuYod','contactusA');
+	$conn = new mysqli('sql6.freesqldatabase.com','sql6632287','cKgCPPTgYT','sql6632287');
 	if($conn->connect_error){
 		echo "$conn->connect_error";
 		die("Connection Failed : ". $conn->connect_error);
