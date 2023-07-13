@@ -14,7 +14,7 @@
 		$stmt->bind_param("ssss", $Name, $email, $subject, $message);
 		$execval = $stmt->execute();
 		echo $execval;
-		echo "Registration successfully...";
+		echo "Registration successfully....";
 		$stmt->close();
 		$conn->close();
 	}
