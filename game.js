@@ -3,12 +3,12 @@ let TIME_LIMIT = 60;
 
 // define quotes to be used
 let quotes_array = [
-"Push yourself, because no one else is going to do it for you.",
-"Failure is the condiment that gives success its flavor.",
-"Wake up with determination. Go to bed with satisfaction.",
-"It's going to be hard, but hard does not mean impossible.",
-"Learning never exhausts the mind.",
-"The only way to do great work is to love what you do."
+"Once upon a time, in a quaint little town nestled in the hills",
+"there lived a man named Samuel. Samuel was known throughout",
+"the town for his extraordinary love for collecting antique keys.",
+"IHe had a vast collection of keys of all shapes and sizes, each with a unique story.",
+"But there was one key he had always longed to find",
+"a key that had eluded him for years."
 ];
 
 // selecting required elements
