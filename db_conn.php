@@ -1,6 +1,6 @@
 <?php 
 
-$sName = "localhost";
+$sName = "24.199.98.118";
 $uName = "root";
 $pass = "";
 $db_name = "auth_db";
