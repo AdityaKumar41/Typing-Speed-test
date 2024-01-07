@@ -1,7 +1,7 @@
 <?php 
 
 $sName = "24.199.98.118";
-$uName = "root";
+$uName = "admin";
 $pass = "";
 $db_name = "auth_db";
 
